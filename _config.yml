@@ -1,26 +1,28 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Process Systems and Simulation Laboratory
+first_name: Kyungtae
+last_name: Park
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  연구실 관련 문의는 이메일(ktpark@sm.ac.kr)로 연락해주세요. 방문 상담도 환영합니다.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  프로세스 시스템 및 시뮬레이션 연구실(PSSL)은 숙명여자대학교 화공생명공학부에 위치하고 있으며,
+  화학공정 시스템의 설계, 최적화, 및 인공지능과 시뮬레이션을 활용한 지속 가능한 공정 솔루션 
+  연구를 수행하고 있습니다.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+  © 2025 Process Systems and Simulation Laboratory, Sookmyung Women's University.
+  <br>
+  주소: 서울특별시 용산구 청파로47길 100, 과학관 452호 및 461호
+  <br>
+  이메일: ktpark@sm.ac.kr | 전화: 02-2077-7084 |
+keywords: Process Simulation, Optimization, AI, Deep Laerning, Sustainable Energy Process
+lang: ko # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: sym1.gif # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+url: https://ktpark1981.github.io
+baseurl: 
+last_updated: true
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
